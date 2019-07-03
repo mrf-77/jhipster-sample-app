@@ -605,7 +605,7 @@
                 <!--
                     This plugin's configuration is used to store Eclipse m2e settings only.
                     It has no influence on the Maven build itself.
-                    Remove when the m2e plugin can correctly bind to Maven lifecycle
+                    Remove when the m2e plugin can correctly bind to Maven lifecycle........
                 -->
                 <plugin>
                     <groupId>org.eclipse.m2e</groupId>
